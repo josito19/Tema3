@@ -18,11 +18,9 @@ public class ejer5 {
 				max = tabla[i];
 				min = tabla[i];
 			} else {
-				// Encontrar el máximo
 				if (tabla[i] > max) {
 					max = tabla[i];
 				}
-				// Encontrar el mínimo
 				if (tabla[i] < min) {
 					min = tabla[i];
 				}
